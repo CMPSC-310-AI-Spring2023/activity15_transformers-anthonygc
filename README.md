@@ -10,3 +10,5 @@
 ## Submission
 
 Submit completed Colab notebook showing generated output.
+
+I completed the activity up to line 49 with an output of `(64, 8, 89, 87)`
